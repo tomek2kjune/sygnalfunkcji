@@ -1,5 +1,5 @@
 # sygnalfunkcji
-Praca nad wygenerowanym sygnałem funkcji.
+Praca nad sygnałem funkcji.
 
 - tworzenie funkcji 
 - generowanie sygnału 
